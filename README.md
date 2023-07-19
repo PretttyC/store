@@ -1,5 +1,6 @@
 # store
 
+[github仓库地址](https://github.com/difo8/store)
 [gitee仓库地址](https://gitee.com/daxia000/store)
 
 haixingyun.yml链接:
