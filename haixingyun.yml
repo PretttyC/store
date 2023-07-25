@@ -65,6 +65,11 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
+  - name: 🎯 mozilla
+    type: select
+    proxies:
+      - DIRECT
+      - cc-trojan
   - name: 🛑 全球拦截
     type: select
     proxies:
@@ -1496,4 +1501,5 @@ rules:
   - DOMAIN-KEYWORD,Thunder,🎯 全球直连
   - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
   - GEOIP,CN,🎯 全球直连
+  - DOMAIN-SUFFIX,mozilla.org,🎯 mozilla
   - MATCH,🐟 漏网之鱼
