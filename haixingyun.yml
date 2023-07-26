@@ -48,11 +48,6 @@ proxy-groups:
       - 🎯 全球直连
       - 🔰 节点选择
       - cc-trojan
-  - name: Ⓜ️ bingChat
-    type: select
-    proxies:
-      - 🎯 全球直连
-      - cc-trojan
   - name: 📲 电报信息
     type: select
     proxies:
@@ -104,7 +99,6 @@ rules:
   - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
   - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
   - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
-  - DOMAIN-SUFFIX,bing.com/chat,Ⓜ️ bingChat
   - DOMAIN-SUFFIX,aadrm.com,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,acompli.com,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,acompli.net,Ⓜ️ 微软服务
@@ -968,7 +962,6 @@ rules:
   - DOMAIN-SUFFIX,apartmentratings.com,🔰 节点选择
   - DOMAIN-SUFFIX,apartments.com,🔰 节点选择
   - DOMAIN-SUFFIX,bankmobilevibe.com,🔰 节点选择
-  - DOMAIN-SUFFIX,bing.com,🔰 节点选择
   - DOMAIN-SUFFIX,booktopia.com.au,🔰 节点选择
   - DOMAIN-SUFFIX,cccat.io,🔰 节点选择
   - DOMAIN-SUFFIX,centauro.com.br,🔰 节点选择
