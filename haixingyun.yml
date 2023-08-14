@@ -1489,6 +1489,7 @@ rules:
   - DOMAIN-SUFFIX,zhihu.com,🎯 全球直连
   - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
   - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
+  - DOMAIN-SUFFIX,dendron.so,🎯 全球直连
   - DOMAIN,download.jetbrains.com,🎯 全球直连
   - DOMAIN,images-cn.ssl-images-amazon.com,🎯 全球直连
   - DOMAIN,cdn.angruo.com,🎯 全球直连
