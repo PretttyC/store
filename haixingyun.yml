@@ -7,7 +7,7 @@ external-controller: :9090
 proxies:
   - name: "cc-trojan"
     type: trojan
-    server: haixingyun.fq.mickeyc.top
+    server: haixingyun.usa.fq.mickeyc.top
     port: 11556
     password: Cc@4859759
     # udp: true
