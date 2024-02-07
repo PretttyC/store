@@ -1628,3 +1628,4 @@ rules:
   - DOMAIN-SUFFIX,gtimg.cn,DIRECT
   - DOMAIN-SUFFIX,tencent.com,DIRECT
   - GEOIP,CN,DIRECT
+  - MATCH,Proxy
