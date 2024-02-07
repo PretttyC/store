@@ -56,474 +56,355 @@ proxy-groups:
   - name: "Netflix"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Spotify"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "YouTube"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Disney+"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Hulu"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "HBO"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Deezer"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Last.fm"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Pandora"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "SoundCloud"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Facebook"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Facebook-Messenger"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Telegram"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Discord"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Flickr"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Instagram"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "LinkedIn"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Pinterest"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Reddit"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Snapchat"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "TikTok"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Tinder"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Twitter"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "VK"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Signal"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "WeChat"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
-      - "cc-trojan"
       - "DIRECT"
+      - "cc-trojan"
 
   - name: "WhatsApp"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Steam"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Epic-Games"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "GOG"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Playstation"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "RockstarGames"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Twitch"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Ubisoft"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Xbox"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Amazon"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Ebay"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Etsy"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Google"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "OpenAI"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "WolframAlpha"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Microsoft"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "DuckDuckGo"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Baidu"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
-      - "cc-trojan"
       - "DIRECT"
+      - "cc-trojan"
 
   - name: "Yahoo"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Pixiv"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Atlassian"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Github"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Gitlab"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Office"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Skype"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Slack"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Zoom"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "BitComet"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "MuseScore"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "StarWalk2"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Science-News"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "Apple"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
       - "cc-trojan"
       - "DIRECT"
 
   - name: "ADS"
     type: select
     proxies:
-      - "AutoChoose"
-      - "LoadBalance"
-      - "cc-trojan"
-      - "DIRECT"
+      - "REJECT"
 
 rules:
   ### 流媒体相关 ###
@@ -1387,11 +1268,11 @@ rules:
   - DOMAIN-SUFFIX,17tuozhai.com,ADS
   - DOMAIN-SUFFIX,178bx.cn,ADS
   - DOMAIN-SUFFIX,21kk.cc,ADS
-  - IP-CIDR,220.115.251.25,ADS
-  - IP-CIDR,221.204.213.222,ADS
+  - IP-CIDR,220.115.251.25/32,ADS,no-resolve
+  - IP-CIDR,221.204.213.222/32,ADS,no-resolve
   - DOMAIN-SUFFIX,222im.com,ADS
-  - IP-CIDR,23.244.43.212,ADS
-  - IP-CIDR,23.89.50.180,ADS
+  - IP-CIDR,23.244.43.212/32,ADS,no-resolve
+  - IP-CIDR,23.89.50.180/32,ADS,no-resolve
   - DOMAIN-SUFFIX,23456dj.com,ADS
   - DOMAIN-SUFFIX,23dsf.top,ADS
   - DOMAIN-SUFFIX,baidutuapi.com,ADS
