@@ -31,9 +31,9 @@ proxy-groups:
   - name: "Proxy"
     type: select
     proxies:
+      - "cc-trojan"
       - "AutoChoose"
       - "LoadBalance"
-      - "cc-trojan"
       - "DIRECT"
 
   - name: "AutoChoose"
@@ -398,8 +398,8 @@ proxy-groups:
   - name: "Apple"
     type: select
     proxies:
-      - "cc-trojan"
       - "DIRECT"
+      - "cc-trojan"
 
   - name: "ADS"
     type: select
